@@ -146,8 +146,9 @@
     window.initMap = initMap;
   </script>
 
+  <!-- IMPORTANT: Replace 'YOUR_API_KEY' with your actual Google Maps API key in a local .env.js or Netlify/Vercel env -->
   <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9r7XXsD6gR8eKhxS-rLx6wGhO2ajDL2o&callback=initMap">
+  src="https://maps.googleapis.com/maps/api/js?key=" + window.GOOGLE_MAPS_API_KEY + "&callback=initMap">
   </script>
 </body>
 </html>
