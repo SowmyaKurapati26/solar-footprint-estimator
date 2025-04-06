@@ -25,3 +25,9 @@ The *Solar Footprint Estimator* is a simple web-based tool that allows users to 
 - Google Maps JavaScript API
 - Google Geocoding API (for location names)
 - Open-Meteo API (for solar data)
+
+
+🧠 Future Improvements
+-Show historical solar trends
+-Add solar panel recommendations
+-Let users input their actual electricity consumption
