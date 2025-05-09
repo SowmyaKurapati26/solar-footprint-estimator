@@ -6,6 +6,7 @@ The *Solar Footprint Estimator* is a simple web-based tool that allows users to 
 - 💰 Estimated annual electricity savings (₹)
 - 🌱 Annual CO₂ offset (kg)
 - 📍 Formatted location address using reverse geocoding
+- PREVIEW: https://solarfootprint.netlify.app/
 
 ---
 
